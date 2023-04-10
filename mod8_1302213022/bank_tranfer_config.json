@@ -1,0 +1,14 @@
+{
+  "lang": "CONFIG1",
+  "tranfer": {
+    "treshold": "CONFIG2",
+    "low_fee": "CONFIG3",
+    "hight_fee": "CONFIG3"
+
+  },
+  "method": "CONFIG",
+  "confirmation": {
+    "en": "CONFIG6",
+    "id": "CONFIG7"
+  }
+}
